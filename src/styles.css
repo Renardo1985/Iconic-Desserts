@@ -1,0 +1,45 @@
+.foot-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 1rem;
+  }
+
+  body{
+    color: white;
+    background-color: black;
+  }
+
+  .mt-5{
+    color: gray;
+
+  }
+
+  .navbar {
+    font-size: larger;
+  }
+
+  #basic-addon1 {
+    font-weight: 500;
+    min-width: 12rem;
+  }
+  
+  .order-form {
+    margin: auto;
+    width: 50%;
+  }
+
+  .order-page{
+    position: static;
+    display: grid;
+    height: auto;
+    min-height: auto;
+    grid-template-rows: min-content 1fr;
+    grid-template-columns: 100%;
+    text-align: center;
+  }
+
+  .order-info{
+    font-size: smaller;
+    color: rgb(108, 108, 101);
+  }
+
